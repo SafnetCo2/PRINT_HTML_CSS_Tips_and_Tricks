@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "pdfshift": "^2.0.1",
+    "puppeteer": "^24.22.3"
+  }
+}
